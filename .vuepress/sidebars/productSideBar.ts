@@ -4,7 +4,7 @@ export default [
     title: "编程学习",
     collapsable: false,
     children: [
-      "后端突击 - 狂飙后端训练营.md",
+      "AI 大模型全栈开发训练营.md",
       "前端突击 - 前端面试训练营.md",
       "考研陪跑 - 编程导航计狗上岸.md",
     ],

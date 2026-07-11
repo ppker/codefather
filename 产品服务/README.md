@@ -53,10 +53,6 @@
 
 ### 编程学习
 
-#### 后端求职突击 - 狂飙后端训练营
-
-[150位，我们出成果了！](编程学习/后端求职突击-狂飙训练营/150位，我们出成果了！.md)
-
 #### 编程宝典
 
 [我的编程宝典网站上线啦！](编程学习/编程宝典/我的编程宝典网站上线啦！.md)
@@ -67,7 +63,7 @@
 
 编程导航网站：[https://www.codefather.cn](https://www.codefather.cn)（编程交流、面试题、简历修改平台）
 
-[后端突击 - 狂飙后端训练营](https://yuyuanweb.feishu.cn/wiki/EShmwklfJifDv4k4fCEcdp0Qnrd) 
+[AI 大模型全栈开发训练营](https://yuyuanweb.yuque.com/org-wiki-yuyuanweb-zvq1bg/beoia5/tug9igt0eyqag0q4) 
 
 [前端突击 - 前端面试训练营](https://yuyuanweb.feishu.cn/wiki/UIoAwQAZLiDecgkVw65cQFoenKf)
 
